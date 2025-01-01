@@ -5,8 +5,7 @@
 IoT-Based Health Monitoring System
 
 
-
-The IoT-based patient health monitoring system refers to any medical equipment with internet connectivity capable of measuring and transmitting health data of a connected patient. Such systems are designed to monitor parameters like heartbeat, body temperature, blood pressure, ECG, steps, and more. The device can record, transmit, and alert if abrupt changes occur in the patient’s health.
+The proposed system is medical equipment with internet connectivity capable of measuring and transmitting health data of a connected patient.These are designed to monitor parameters like heartbeat, body temperature, blood pressure, ECG, steps, and more. The device can record, transmit, and alert if abrupt changes occur in the patient’s health.
 
 This technology includes devices ranging from smartwatches, fitness trackers, and smartphones to sophisticated hospital equipment that can connect to the internet. These systems are particularly useful when the patient and healthcare expert(s) are in different locations. For instance, a patient can stay at home and lead a routine life while their doctor monitors their health remotely. Based on the data received, the healthcare provider can prescribe treatment or take immediate action in emergencies.
 
