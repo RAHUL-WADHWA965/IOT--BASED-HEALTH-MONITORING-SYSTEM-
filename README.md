@@ -1,7 +1,6 @@
 # IoT-based-health-monitoring-system
 
 
-![circuit diagram](https://user-images.githubusercontent.com/84971685/235306615-afbf38ad-ce7c-4fb2-b8c5-8e77b4800ce4.png)
 
 IoT-Based Health Monitoring System
 
